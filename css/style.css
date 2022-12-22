@@ -13,13 +13,13 @@ h1{
     text-shadow: 2px 2px 5px white;
     color: white;
 }
-.navbar{
+.navBar{
     display: flex;
     justify-content: center;
     gap: 20px;
     list-style: none;
 }
-.navbar li a{
+.navBar li a{
     text-decoration: none;
     font-size: 18px;
     color: white;
